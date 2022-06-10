@@ -1,4 +1,4 @@
-# Obstacle-avioiding-Car-using-Aurdino-UNO
+# Obstacle-avioiding-Car-using-Arduino-UNO
 
 Automatic and Self -driven car is thwe new need in today's life.
 many Disadvantages are observed in the new implementation.
